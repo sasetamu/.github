@@ -1,6 +1,4 @@
-# SASE TAMU
-
-Welcome to the SASE TAMU Organization!
+# Welcome to SASE TAMU!
 
 All projects and development relevant to the Texas A&M University Society of Asian Scientists and Engineers chapter.
 
